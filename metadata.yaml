@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1127
     wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20448#The-Wit-of-a-Duck-and-Other-Papers
 gutenberg_issued: '2007-01-25'
 gutenberg_type: Text
 identifiers:
