@@ -1,0 +1,31 @@
+_repo: The-Wit-of-a-Duck-and-Other-Papers_20448
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_issued: '2007-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+tableOfContents: The wit of a duck -- An astonished porcupine -- Human traits in the
+  animals -- The downy woodpecker -- A barn-door outlook -- Wild life in winter --
+  Bird life in winter -- A birds' free lunch -- Bird-nesting time -- A breath of April
+  -- The woodcock's evening hymn -- The coming of summer.
+title: The Wit of a Duck and Other Papers
+url: http://www.gutenberg.org/ebooks/20448
